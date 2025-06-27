@@ -1,0 +1,5 @@
+Reverse only the words in a sentance without changing their position.
+
+ex:- I Love Javascript
+
+res:- I evol tpircsavaj
